@@ -9,3 +9,7 @@ yay
 ```javascript
 var myVar = "hello";
 ```
+
+- [x] first task
+- [] second task
+- [] third task
